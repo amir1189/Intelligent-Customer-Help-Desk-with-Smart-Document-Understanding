@@ -53,6 +53,6 @@ In our project,the webhook will communicate with an IBM Cloud Functions web acti
 4.If the user asks a product operation question, a search query is passed to a predefined IBM Cloud Functions action.
 5.The Cloud Functions action will query the Watson Discovery service and return the results.
 
-Node-Red Dashboard link after deploying :https://node-red-hjtbm.mybluemix.net/ui/#!/46?socketid=5wLcoqAWmWJFW9ycAAA4
+Node-Red Dashboard link after deploying :https://node-red-grfzx.eu-gb.mybluemix.net/ui
 
 Youtube video link is : 
